@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanuar10
-- 👀 I’m interested in Python, Machine Learning and Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate in data analysis and IoT system development
+- 👀 I’m interested in Near Infrared Spectroscopy, Image Processing,  Machine Learning and Data Analysis
+- 🌱 I’m currently learning Roboflow, YOLO and Python
+- 💞️ I’m looking to collaborate in image processing techniques, data analysis and IoT system development
 - 📫 You may reach me through email at khanuar10@gmail.com
 
 <!---
